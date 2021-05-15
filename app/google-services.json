@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237799665372",
+    "project_id": "remote-de2af",
+    "storage_bucket": "remote-de2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237799665372:android:cc84e7382a86ca43100e19",
+        "android_client_info": {
+          "package_name": "com.example.nvhuy.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237799665372-mlirugdvh5n3o8lufpc7odon43r2c4bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVd7peL_uWOoLRy9viJtEhn7tHlOE6Lp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237799665372-mlirugdvh5n3o8lufpc7odon43r2c4bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
